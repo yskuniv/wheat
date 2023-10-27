@@ -1,5 +1,5 @@
 /*
-Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+Copyright © 2023 ysk <ysk.univ.1007@gmail.com>
 */
 package cmd
 
